@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/thbomfim">
   <img height=180em width=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thbomfim&layout=compact&langs_count=8&card_width=320&theme=dracula&show_icons=true" />
 </a>
+
+![Snake animation](https://github.com/thbomfim)
