@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/anuraghazra/thbomfim">
+  <img height=180em width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=thbomfim&theme=dracula&show_icons=true&layout=compact" />
+</a>
+<a href="https://github.com/thbomfim">
+  <img height=180em width=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thbomfim&layout=compact&langs_count=8&card_width=320&theme=dracula&show_icons=true" />
+</a>
