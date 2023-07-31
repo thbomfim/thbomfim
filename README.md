@@ -34,4 +34,4 @@
  <a href="http://wa.me/5521981182263"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   
 </div>
-![snake animation](https://github.com/thbomfim/thbomfim/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://github.com/thbomfim/thbomfim/blob/output/github-contribution-grid-snake2.svg"/>
