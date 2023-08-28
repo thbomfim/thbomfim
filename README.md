@@ -1,20 +1,11 @@
 <h1> Hi! My name is Thiago. </h1>
-
-<div>
-  <a href="https://github.com/thbomfim">
-  <img height="180em"  width="42%" align="center" src="https://github-readme-stats.vercel.app/api?username=thbomfim&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thbomfim&layout=compact&langs_count=7&theme=react" />
-
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
-</div>
  <br>
 
-<p>
+<p><h3>
   Olá sou um iniciante na programação e estou em busca de conhecimentos em tal area<br>
   toda ajuda e dicas seram bem vindas!<br> 
   forte abraço e agradeço por ter visitado meu perfil👍
-
-</p>
+</h3></p>
 
  <br>
 <div  align="center"> 
