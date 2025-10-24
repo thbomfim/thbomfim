@@ -1,20 +1,22 @@
+<div  align="center">
 <h1> Hi! My name is Thiago. </h1>
  <br>
 
-<p><h3>
+<p><h4>
   Olá sou um iniciante na programação e estou em busca de conhecimentos em tal area<br>
   toda ajuda e dicas seram bem vindas!<br> 
   forte abraço e agradeço por ter visitado meu perfil👍
-</h3></p>
+</h4></p>
 
  <br>
-<div  align="center"> 
+ 
   <h2>Habilidades</h2>
   <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>  
 </div>
   <br>
